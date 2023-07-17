@@ -10,3 +10,11 @@ Spring Boot 연습 리포지토리
 | [Package](https://github.com/hugoMGSung/study-springboot/tree/main/Basic/spring-boot-package) | 패키지 |
 | [CommandLine](https://github.com/hugoMGSung/study-springboot/tree/main/Basic/spring-boot-commandlinerunner) | 커맨드라인러너 |
 | [Web basic](https://github.com/hugoMGSung/study-springboot/tree/main/Basic/spring-boot-web) | SpringBoot 웹기본 |
+| [WebFlux](https://github.com/hugoMGSung/study-springboot/tree/main/Basic/spring-boot-webflux) | Webflux 기본 |
+| [File Upload](https://github.com/hugoMGSung/study-springboot/tree/main/Basic/spring-boot-file-upload) | 파일 업로드 |
+| [Thymeleaf](https://github.com/hugoMGSung/study-springboot/tree/main/Basic/spring-boot-thymeleaf) | Thymeleaf |
+| [Thymeleaf nolayout](https://github.com/hugoMGSung/study-springboot/tree/main/Basic/spring-boot-thymeleaf-nolayout) | Thymeleaf nolayout |
+| [Jpa](https://github.com/hugoMGSung/study-springboot/tree/main/Basic/spring-boot-jpa) | Jpa |
+
+
+이후 작업 추가
