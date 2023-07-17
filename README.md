@@ -18,3 +18,9 @@ Spring Boot 연습 리포지토리
 
 
 이후 작업 추가
+
+
+### Basic-gradle
+| 프로젝트폴더 | 설명 |
+|:---|:---|
+| [gradle start](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sb-gradle-start) | Gradle SB 시작 |
