@@ -8,4 +8,4 @@
 4. Controller(opt)
 
 ### 실행결과
-![springboot_jpa]()
+<img src="https://raw.githubusercontent.com/hugoMGSung/study-springboot/main/Images/springboot001.png" width="700" />
