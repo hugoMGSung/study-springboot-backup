@@ -24,3 +24,4 @@ Spring Boot 연습 리포지토리
 | 프로젝트폴더 | 설명 |
 |:---|:---|
 | [gradle start](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sb-gradle-start) | Gradle SB 시작 |
+| [SB struct](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sb-gradle-struct) | SB Struct 기본 |
