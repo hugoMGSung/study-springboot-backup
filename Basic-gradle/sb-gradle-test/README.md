@@ -6,4 +6,4 @@
 2. SpringBoot 테스트
 
 ### 실행결과
-<img src="https://raw.githubusercontent.com/hugoMGSung/study-springboot/main/Images/springboot001.png" width="700" />
+<img src="https://raw.githubusercontent.com/hugoMGSung/study-springboot/main/Images/springboot002.png" width="550" />
