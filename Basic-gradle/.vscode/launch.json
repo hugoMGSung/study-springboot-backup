@@ -19,6 +19,16 @@
             "projectName": "sb-gradle-test",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SbGradleOrmApplication<sb-gradle-orm>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hugo83.sbgradleorm.SbGradleOrmApplication",
+            "projectName": "sb-gradle-orm",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
