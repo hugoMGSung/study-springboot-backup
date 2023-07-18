@@ -9,6 +9,16 @@
             "projectName": "sb-gradle-struct",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SbGradleTestApplication<sb-gradle-test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hugo83.sbgradletest.SbGradleTestApplication",
+            "projectName": "sb-gradle-test",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
