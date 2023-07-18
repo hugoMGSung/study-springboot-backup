@@ -11,3 +11,21 @@
 7. Packaging type 선택: JAR
 8. Java Version 선택: 17
 9. Search for dependencies: Spring Web
+
+### Test
+TestController.java
+```java
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class TestController {
+    @GetMapping("/test")
+    public String test() {
+        return "Hello, Spring Boot!";
+    }
+}
+```
+
+### 실행결과
+<img src="https://raw.githubusercontent.com/hugoMGSung/study-springboot/main/Images/springboot000.png" width="700" />

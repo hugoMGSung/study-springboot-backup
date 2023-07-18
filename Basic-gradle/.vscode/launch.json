@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SbGradleStructApplication<sb-gradle-struct>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hugo83.sbgradlestruct.SbGradleStructApplication",
+            "projectName": "sb-gradle-struct",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
