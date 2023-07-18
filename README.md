@@ -25,3 +25,5 @@ Spring Boot 연습 리포지토리
 |:---|:---|
 | [gradle start](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sb-gradle-start) | Gradle SB 시작 |
 | [SB struct](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sb-gradle-struct) | SB Struct 기본 |
+| [SB test](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sb-gradle-test) | SB Test 기본 |
+| [SB ORM](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sb-gradle-orm) | SB ORM 기본 |
