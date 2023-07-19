@@ -29,6 +29,26 @@
             "projectName": "sb-gradle-orm",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Sblog01Application<sblog01>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hugo83.sblog01.Sblog01Application",
+            "projectName": "sblog01",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Sblog02Application<sblog02>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hugo83.sblog02.Sblog02Application",
+            "projectName": "sblog02",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
