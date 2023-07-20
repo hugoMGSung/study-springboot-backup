@@ -5,3 +5,4 @@
 1. 화면구성
 
 ### 실행결과
+<img src="https://raw.githubusercontent.com/hugoMGSung/study-springboot/main/Images/springboot005.png" width="700" />

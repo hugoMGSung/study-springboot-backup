@@ -27,3 +27,6 @@ Spring Boot 연습 리포지토리
 | [SB struct](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sb-gradle-struct) | SB Struct 기본 |
 | [SB test](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sb-gradle-test) | SB Test 기본 |
 | [SB ORM](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sb-gradle-orm) | SB ORM 기본 |
+| [Blog01](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sblog01) | 블로그01 - 기본api |
+| [Blog02](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sblog02) | 블로그02 - Thymeleaf |
+| [Blog03](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sblog03) | 블로그03 - Spring Security |

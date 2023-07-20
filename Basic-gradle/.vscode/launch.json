@@ -49,6 +49,16 @@
             "projectName": "sblog02",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Sblog03Application<sblog03>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hugo83.sblog03.Sblog03Application",
+            "projectName": "sblog03",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
