@@ -28,7 +28,8 @@
             "mainClass": "com.hugo83.sbgradleorm.SbGradleOrmApplication",
             "projectName": "sb-gradle-orm",
             "args": "",
-            "envFile": "${workspaceFolder}/.env"
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=63573 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=sb-gradle-orm"
         },
         {
             "type": "java",
@@ -57,6 +58,26 @@
             "cwd": "${workspaceFolder}",
             "mainClass": "com.hugo83.sblog03.Sblog03Application",
             "projectName": "sblog03",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SbLatestgradleApplication<sb-latestgradle>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hugo83.sblatestgradle.SbLatestgradleApplication",
+            "projectName": "sb-latestgradle",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Sblog04Application<sblog04>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hugo83.sblog04.Sblog04Application",
+            "projectName": "sblog04",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
         }

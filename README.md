@@ -30,3 +30,4 @@ Spring Boot 연습 리포지토리
 | [Blog01](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sblog01) | 블로그01 - 기본api |
 | [Blog02](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sblog02) | 블로그02 - Thymeleaf |
 | [Blog03](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sblog03) | 블로그03 - Spring Security |
+| [Blog04](https://github.com/hugoMGSung/study-springboot/tree/main/Basic-gradle/sblog04) | 블로그04 - JWT |

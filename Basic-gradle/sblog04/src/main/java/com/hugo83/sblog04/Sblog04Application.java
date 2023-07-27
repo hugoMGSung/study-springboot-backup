@@ -1,4 +1,4 @@
-package com.hugo83.sblog03;
+package com.hugo83.sblog04;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -10,8 +10,8 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 @EnableJpaAuditing
 @SpringBootApplication(exclude = SecurityAutoConfiguration.class)
 @EnableAutoConfiguration(exclude = {ErrorMvcAutoConfiguration.class})
-public class Sblog03Application {
+public class Sblog04Application {
 	public static void main(String[] args) {
-		SpringApplication.run(Sblog03Application.class, args);
+		SpringApplication.run(Sblog04Application.class, args);
 	}
 }
